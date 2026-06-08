@@ -1,0 +1,9 @@
+p {
+    
+    color:brown;
+    font-family:"lxgwr",sans-serif;
+}
+@font-face {
+  font-family: "lxgwr";
+  src: url("LXGWWenKai-Regular.ttf");
+}
