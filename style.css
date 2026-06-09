@@ -1,9 +1,25 @@
 p {
-    
-    color:brown;
-    font-family:"lxgwr",sans-serif;
+  color:brown;
+  font-family:"lxgwr",sans-serif;
 }
+body{
+  background-color: beige;
+  font-size: 100%;
+}
+h1{
+  color:maroon;
+  font-family:"lxgwm",sans-serif
+}
+h2{
+  color:maroon;
+  font-family:"lxgwm",sans-serif
+}
+
 @font-face {
   font-family: "lxgwr";
   src: url("LXGWWenKai-Regular.ttf");
+}
+@font-face {
+  font-family: "lxgwm";
+  src: url("LXGWWenKai-Medium.ttf");
 }
